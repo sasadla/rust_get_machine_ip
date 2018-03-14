@@ -1,0 +1,14 @@
+[[package]]
+name = "Get_machine_ip"
+version = "0.0.1"
+dependencies = [
+ "machine-ip 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
+name = "machine-ip"
+version = "0.1.0"
+source = "registry+https://github.com/rust-lang/crates.io-index"
+
+[metadata]
+"checksum machine-ip 0.1.0 (registry+https://github.com/rust-lang/crates.io-index)" = "143fdbb707fc8d9bcc03a68f03ca123206e3f38da3490d7bc7e36164c8d5da5a"

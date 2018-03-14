@@ -1,0 +1,7 @@
+[package]
+name = "Get_machine_ip"
+version = "0.0.1"
+authors = ["Saarim Aatri Sadla <saarimaatri@hotmail.com>"]
+
+[dependencies]
+machine-ip = "0.1"
